@@ -4,7 +4,7 @@
 <h3>Data Civitas</h3>
     <div class="card">
         <div class="card-header">
-            <button type="buttton" class=" btn btn-sm btn-primary">
+            <button type="buttton" class=" btn btn-sm btn-primary " onclick="window.location='{{ url('civitas/add') }}'">
                 <i class="fas fa-plus-circle"></i> Add New Data
             </button>
         </div>

@@ -21,5 +21,8 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('layout.main');
 });
+Route::get('/civitas/add', function () {
+    return view('civitas.formadd');
+});
 
 Route::resource('civitas',CivitasController::class);

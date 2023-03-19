@@ -11,7 +11,7 @@ class StoreCivitasRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return false;
+        return true ;
     }
 
     /**
@@ -22,7 +22,12 @@ class StoreCivitasRequest extends FormRequest
     public function rules(): array
     {
         return [
-            //
+            'txtnik' => 'required|unique:civitas,nik|min:16|max:17',
+            'txtnama' => 'required',
+            'txtusername' => 'required',
+            'txtlevel' => 'required',
+            'txtstatus' => 'required',
+
         ];
     }
 }

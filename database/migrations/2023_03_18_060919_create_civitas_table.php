@@ -15,8 +15,8 @@ return new class extends Migration
             $table->char('nik',17);
             $table->string('nama',100);
             $table->string('username',100);
-            $table->string('level',50);
-            $table->string('status',50);
+            $table->enum('level',['M','F']);
+            $table->enum('status',['M','F']);
             $table->primary('nik');
             $table->timestamps();
         });
