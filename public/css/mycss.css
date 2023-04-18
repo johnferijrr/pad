@@ -1,0 +1,47 @@
+p.a {
+  position: absolute;
+  width: 275.99px;
+  height: 66.09px;
+  left: 306px;
+  top: 452px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 77px;
+  
+  color: #0E094D;
+  }
+
+  p.b {
+  position: absolute;
+  width: 356.87px;
+  height: 61.8px;
+  left: 306px;
+  top: 523.24px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #0E094D;
+  }
+
+  p.c {
+  position: absolute;
+  width: 553px;
+  height: 61.8px;
+  left: 306px;
+  top: 596.2px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #0E094D;
+  }

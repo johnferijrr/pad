@@ -5,9 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="{{ asset('/') }}assets/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-    <link href="{{ asset('/') }}assets/plugins/css/all.min.css" rel="stylesheet" </head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+    <link href="css/mycss.css" rel="stylesheet">
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+      </style>
 
 <body>
 
@@ -44,6 +46,9 @@
         <div class="container">
             @yield('content')
         </div>
+    
+        <script src="js/myjs.js"></script>
+
     </div>
     {{-- end content --}}
     <script src="{{ asset('/') }}assets/dist/js/bootstrap.bundle.min.js"

@@ -11,4 +11,9 @@
             </div>
         </div>
     </div>
+    <button type="button" class="btn btn-primary" onclick="myhello()">Hello</button>
+    <p class="a">Platform</p>
+    <p class="b">Digitalisasi</p>
+    <p class="c">E-Sarpras Vokasi</p>
+
 @endsection
