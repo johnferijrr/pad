@@ -62,7 +62,7 @@ color: rgba(29, 29, 29, 0.82);
 }
 .ay {
   position: absolute;
-  height: 5264px;
+  height: 4800px;
   width: 1425px;
   left: 0px;
   top: 50px;
@@ -75,7 +75,7 @@ img.au {
   width: 1425px;
   height: 484px;
   left: 0px;
-  top: 4560px;
+  top: 4100px;
 }
 
 .r {
@@ -801,7 +801,7 @@ img.al {
   width: 1425px;
   height: 484px;
   left: 0px;
-  top: 4560px;
+  top: 4100px;
 
   background: rgba(74, 74, 71, 0.8);
   mix-blend-mode: multiply;
@@ -812,7 +812,7 @@ img.al {
   width: 1425px;
   height: 270px;
   left: 0px;
-  top: 5044px;
+  top: 4580px;
 
   background: #0E094D;
 }
@@ -822,7 +822,7 @@ p.au {
   width: 299px;
   height: 96px;
   left: 318px;
-  top: 5080.5px;
+  top: 4630px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -841,7 +841,7 @@ p.av {
   width: 647px;
   height: 60px;
   left: 397px;
-  top: 5213.25px;
+  top: 4750px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -859,7 +859,7 @@ p.aw {
   width: 515px;
   height: 16px;
   left: 462.75px;
-  top: 5250px;
+  top: 4790px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -879,8 +879,7 @@ img.ax {
   width: 75.75px;
   height: 78.75px;
   left: 216.75px;
-  top: 5085px;
-
+  top: 4640px;
 }
 
 img.az {

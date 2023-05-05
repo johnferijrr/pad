@@ -1,6 +1,7 @@
 @extends('layout.main')
 
 @section('content')
+
     <div class="ay"></div>
     <img class="au" src="images/image 15.png">
     <div class="r"></div>
