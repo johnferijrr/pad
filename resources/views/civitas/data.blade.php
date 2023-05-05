@@ -1,6 +1,8 @@
 @extends('layout.main')
 
 @section('content')
+
+
 <h3>Data Civitas</h3>
     <div class="card">
         <div class="card-header">
