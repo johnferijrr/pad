@@ -393,7 +393,7 @@ p.n {
   width: 930px;
   height: 60px;
   left: 255px;
-  top: 4167.75px;
+  top: 3650px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -410,7 +410,7 @@ p.o {
   width: 216px;
   height: 38px;
   left: 315px;
-  top: 4395px;
+  top: 3930px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -429,7 +429,7 @@ p.p {
   width: 216.75px;
   height: 38px;
   left: 610px;
-  top: 4395px;
+  top: 3930px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -448,7 +448,7 @@ p.q {
   width: 216px;
   height: 38px;
   left: 908.25px;
-  top: 4395px;
+  top: 3930px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -716,7 +716,7 @@ img.aj {
   width: 119.19px;
   height: 89.44px;
   left: 363px;
-  top: 4273px;
+  top: 3800px;
 
 }
 
@@ -725,7 +725,7 @@ img.ak {
   width: 119.19px;
   height: 87.43px;
   left: 658px;
-  top: 4275px;
+  top: 3800px;
 }
 
 img.al {
@@ -733,7 +733,7 @@ img.al {
   width: 98.65px;
   height: 96.76px;
   left: 967px;
-  top: 4263px;
+  top: 3800px;
 }
 
 .am {
@@ -1152,4 +1152,13 @@ top: 1373.25px;
   height: 195.75px;
   left: 1045px;
   top: 1373.25px;
+}
+
+.bz{
+  position: absolute;
+width: 906.75px;
+height: 338.25px;
+left: 267.75px;
+top: 3150px;
+border-radius: 43px;
 }
